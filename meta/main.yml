@@ -14,6 +14,9 @@ galaxy_info:
   - name: Debian
     versions:
     - 10
+  - name: opensuse
+    versions:
+    - 15.2
 
   galaxy_tags:
     - logmanagement
